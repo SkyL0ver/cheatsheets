@@ -45,6 +45,7 @@
 <url><loc>https://devhints.io/chunky_png</loc></url>
 <url><loc>https://devhints.io/cidr</loc></url>
 <url><loc>https://devhints.io/circle</loc></url>
+<url><loc>https://devhints.io/clip</loc></url>
 <url><loc>https://devhints.io/co</loc></url>
 <url><loc>https://devhints.io/command_line</loc></url>
 <url><loc>https://devhints.io/commander.js</loc></url>
@@ -306,6 +307,7 @@
 <url><loc>https://devhints.io/superagent</loc></url>
 <url><loc>https://devhints.io/tabular</loc></url>
 <url><loc>https://devhints.io/tape</loc></url>
+<url><loc>https://devhints.io/tar</loc></url>
 <url><loc>https://devhints.io/textile</loc></url>
 <url><loc>https://devhints.io/tig</loc></url>
 <url><loc>https://devhints.io/tmux</loc></url>
@@ -345,6 +347,7 @@
 <url><loc>https://devhints.io/yaml</loc></url>
 <url><loc>https://devhints.io/yargs</loc></url>
 <url><loc>https://devhints.io/yarn</loc></url>
+<url><loc>https://devhints.io/yum</loc></url>
 <url><loc>https://devhints.io/znc</loc></url>
 <url><loc>https://devhints.io/zombie</loc></url>
 <url><loc>https://devhints.io/zsh</loc></url>
